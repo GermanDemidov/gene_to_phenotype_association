@@ -17,3 +17,5 @@ You run the script as:
 `Rscript match_genes_to_pheno.R input_file.txt`
 
 Result file with the name `phevalues.annot.tsv` will appear in the directory with the script.
+
+The script will also produce a plot with phe-values and raw similarity scores - the general variants of interest are located on the top left part.
